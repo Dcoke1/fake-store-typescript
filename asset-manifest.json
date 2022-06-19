@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fake-store-typescript/static/js/main.5b5b492a.js",
+    "index.html": "/fake-store-typescript/index.html",
+    "main.5b5b492a.js.map": "/fake-store-typescript/static/js/main.5b5b492a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5b5b492a.js"
+  ]
+}
