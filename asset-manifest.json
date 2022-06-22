@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fake-store-typescript/static/js/main.5b5b492a.js",
+    "main.js": "/fake-store-typescript/static/js/main.e72d3c93.js",
     "index.html": "/fake-store-typescript/index.html",
-    "main.5b5b492a.js.map": "/fake-store-typescript/static/js/main.5b5b492a.js.map"
+    "main.e72d3c93.js.map": "/fake-store-typescript/static/js/main.e72d3c93.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b5b492a.js"
+    "static/js/main.e72d3c93.js"
   ]
 }
